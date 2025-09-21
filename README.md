@@ -1,4 +1,4 @@
-![Miguel Carvajal Banner](https://yourbannerimageurl.com)
+![Miguel Carvajal Banner](banner.png)
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/><h2 align="left">Hey there! I'm Miguel Ángel Carvajal Torres</h2>
 
