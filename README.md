@@ -72,9 +72,3 @@
 <a href="https://www.linkedin.com/in/miguel-carvajal-477264366/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/ELFLACO65"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake"/>
-</div>
